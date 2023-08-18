@@ -1,0 +1,8 @@
+.container > div {
+  display: flex;
+  background: var(--yankees-blue);
+  flex-wrap: wrap;
+  justify-content: space-around;
+  min-height: 60vh;
+  align-items: flex-start;
+}

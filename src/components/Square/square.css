@@ -1,0 +1,11 @@
+.Square {
+  display: flex;
+  align-items: center;
+  border: 3px solid var(--react);
+}
+
+.Square h4 {
+  text-align: center;
+  flex-basis: 100%;
+  align-self: center;
+}

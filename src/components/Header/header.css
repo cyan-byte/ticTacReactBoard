@@ -1,0 +1,9 @@
+.Header {
+  flex-basis: 60%;
+  color: var(--react);
+  text-align: center;
+
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,9 @@
+.Board {
+  flex-basis: 60%;
+  display: grid;
+  grid-template-columns: 15vw 15vw 15vw;
+  grid-template-rows: 15vw 15vw 15vw;
+  color: white;
+  justify-items: stretch;
+  justify-content: center;
+}

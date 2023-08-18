@@ -1,0 +1,16 @@
+.Player {
+}
+
+.X,
+.O {
+  flex-basis: 45%;
+  text-align: center;
+}
+
+.X {
+  color: var(--sea-serpent);
+}
+
+.O {
+  color: var(--aquamarine);
+}
